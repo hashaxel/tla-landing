@@ -21,13 +21,16 @@ hr {
   max-width: 65px;
 }
 
+.title-line {
+  max-width: 300px;
+}
+
 .buffer {
-  height: 10rem;
+  height: 5rem;
 }
 
 .copy-section {
   background-color: rgb(0, 0, 0, 0.5);
-  padding: 25px 0 25px 0;
   border-radius: 15px;
 }
 
@@ -53,3 +56,12 @@ hr {
 .btn-xl {
   padding: .75rem 1.25rem;
 }
+
+.by-line {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  font-weight: 100;
+  color: white;
+  margin-top: 10px;
+}
+
